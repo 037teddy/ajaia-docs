@@ -2,7 +2,7 @@
 
 | Item | Where |
 |------|-------|
-| Live product URL | _LIVE_URL_ |
+| Live product URL | https://ajaia-docs-2jt3.onrender.com |
 | Walkthrough video | see `VIDEO_URL.txt` |
 | Source code | this folder (`server/`, `client/`, `package.json`) |
 | Setup & run instructions | `README.md` |

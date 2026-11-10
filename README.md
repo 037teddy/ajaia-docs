@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor: create, format, import and share documents in the browser.
 
-**Live demo:** _LIVE_URL_ (Render free tier, so the first request after a period of no traffic can take ~30–50 s while the instance wakes up)
+**Live demo:** https://ajaia-docs-2jt3.onrender.com (Render free tier, so the first request after a period of no traffic can take ~30–50 s while the instance wakes up)
 
 ## Demo accounts
 
